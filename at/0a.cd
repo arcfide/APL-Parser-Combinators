@@ -1,0 +1,4 @@
+⎕IO ⎕ML←0 1
+
+X←{⊢#.UT.expect←⍵} ⋄ P←#.pc ⋄ #.UT.sac←0
+
